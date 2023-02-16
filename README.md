@@ -8,10 +8,6 @@ This is a project for the 42 school that consists of creating a simple shell pro
 Before launching the make command, make sure to install the readline package.
 
 ## Installation
-```sudo apt-get install libreadline-dev
-$ make
-```
-
 To install the program, simply clone the repository and run the make command:
 ```shell
 git clone https://github.com/TrakyRichard/minishell.git
