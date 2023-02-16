@@ -5,7 +5,7 @@ This is a project for the 42 school that consists of creating a simple shell pro
 
 
 ## Requirements
-Before launching the make command, make sure to install the readline package. This can be done by running the following command if you are on linux:
+Before launching the make command, make sure to install the readline package.
 
 ## Installation
 ```sudo apt-get install libreadline-dev
